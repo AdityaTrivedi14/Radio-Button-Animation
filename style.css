@@ -3,6 +3,9 @@
   margin: 0;
   padding: 0;
 }
+::selection{
+  background:none;
+}
 body {
   background: #0d1117;
   font-family: "Roboto";
